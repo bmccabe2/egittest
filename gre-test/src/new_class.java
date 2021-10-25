@@ -1,4 +1,6 @@
 
 public class new_class {
-	//test
+	void func() {
+		System.out.println("hello");
+	}
 }
